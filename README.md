@@ -97,6 +97,10 @@ The addresses in the update, transfer, and burn scripts refer to the completed e
 
 The NFT changed from `MeowySigma` with its [original metadata](https://gateway.irys.xyz/8SSZQFRPAmajax598zietSt6ibVXcTyVRmLSZLS6xAh4) to `MeowySigma V2` with [updated metadata](https://gateway.irys.xyz/EdE1MgJ2B3RDU9sJfGz71mvLC9MwEDZiAPiHaf5538fx). The burn returned 792,480 lamports to the fee payer; a one-byte account retained 2,155,320 lamports. The separate transaction fee was 10,000 lamports.
 
+## Project write-up
+
+Read the [X thread about this project](https://x.com/alexcsl10/status/2117853006570127650) for a walkthrough of the token and NFT lifecycle and what I learned.
+
 ## References
 
 - [Solana token documentation](https://solana.com/docs/tokens)
